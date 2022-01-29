@@ -6,7 +6,7 @@
 
 ![About Me](https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight)
 
-1. #### A 16-year-old boy.♂
+1. A 16-year-old boy.♂
 
 2. Not proficient in english(now learning it).~~Very good at Chinese~~🤣
 
