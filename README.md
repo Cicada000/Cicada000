@@ -1,8 +1,8 @@
 # Hi there!🎉
 
-![About Me](https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight)
-
 ## Aboout Me 👀💦
+
+![About Me](https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight)
 
 1. #### A 16-year-old boy.♂
 
