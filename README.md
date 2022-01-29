@@ -2,8 +2,6 @@
 
 ----------
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1436614177&auto=1&height=66"></iframe>
-
 ![About Me](https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight)
 
 ## Aboout Me 👀💦
