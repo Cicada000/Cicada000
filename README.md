@@ -1,5 +1,7 @@
 # Hi there!🎉
 
+![Happy Lunar New Year!](./Long.png)
+
 ## Aboout Me 👀💦
 
 ![About Me](https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight)
