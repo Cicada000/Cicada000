@@ -1,6 +1,6 @@
 # Hi there!🎉
 
-<img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000@28884d6/Long.svg"  height="210">
+<img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000/Long.svg"  height="210">
 
 ## Aboout Me 👀💦
 
