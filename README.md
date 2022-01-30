@@ -1,10 +1,14 @@
 # Hi there!🎉
 
+<center>
 <img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000/Long.svg"  height="210">
+</center>
 
 ## Aboout Me 👀💦
 
-![About Me](https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight)
+<center>
+<img src="https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight">
+</center>
 
 1. A 16-year-old boy.♂
 
