@@ -1,6 +1,6 @@
 # Hi there!🎉
 
-![Happy Lunar New Year!](https://cdn.jsdelivr.net/gh/Cicada000/Cicada000@4b17ff7/Long.svg)
+<img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000@28884d6/Long.svg"  height="210">
 
 ## Aboout Me 👀💦
 
