@@ -1,14 +1,13 @@
 # Hi there!🎉
 
-<center>
-<img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000/Long.svg"  height="210">
-</center>
+<div align=center><img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000/Long.svg" height=210px></div>
+<div align=center><h3>Happy Lunar New Year</h3></div>
 
 ## Aboout Me 👀💦
 
-<center>
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight">
-</center>
+</div>
 
 1. A 16-year-old boy.♂
 
