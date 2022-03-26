@@ -17,6 +17,8 @@
 
 4. Know a little Python, HTML, CSS, JavaScript.🐍
 
+5. Aba Aba...
+
 ## Contact me 💬
 
 [Telegram](https://t.me/CicadaLYW)&emsp;[Twitter](https://twitter.com/Cicada0001)&emsp;[Github](https://github.com/Cicada000)
