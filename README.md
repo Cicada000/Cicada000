@@ -24,7 +24,7 @@
 [Telegram](https://t.me/CicadaLYW)&emsp;[Twitter](https://twitter.com/Cicada0001)&emsp;[Github](https://github.com/Cicada000)
 
 ## Status
-![image](https://count.getloli.com/get/@cicada000?theme=asoul)
+![image](https://count.getloli.com/get/@cicada000)
 
 
 
