@@ -24,7 +24,7 @@
 [Telegram](https://t.me/CicadaLYW)&emsp;[Twitter](https://twitter.com/Cicada0001)&emsp;[Github](https://github.com/Cicada000)
 
 ## Status
-<img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+<img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 
 
 
