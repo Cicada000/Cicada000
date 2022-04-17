@@ -15,7 +15,7 @@
 
 3. Interested in table tennis and photography.🏓📷
 
-4. Know a little Python, HTML, CSS, JavaScript.🐍
+4. Know a little Python, HTML.🐍
 
 5. Aba Aba...
 
