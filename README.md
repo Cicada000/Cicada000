@@ -9,6 +9,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight">
 </div>
 
+<div>
+  <a herf="https://blog.cicada000.work/index.xml">
+    <img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" alt="RSS">
+  </a>
+</div>
+
 1. A 16-year-old boy.♂
 
 2. Not proficient in english(now learning it).~~Very good at Chinese~~🤣
