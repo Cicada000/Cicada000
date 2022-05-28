@@ -31,6 +31,8 @@
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 
+### More About Me
+
 1. A 16-year-old boy.♂
 
 2. Not proficient in english(now learning it).~~Very good at Chinese~~🤣
