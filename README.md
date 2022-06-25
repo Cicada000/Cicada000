@@ -1,14 +1,14 @@
 # Hi there!🎉
 
-<div align=center><img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000/Long.svg" height=210px></div>
+<div align=center><img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000/Long.svg" width=500px></div>
 <div align=center><h3>Happy Lunar New Year</h3></div>
 
 ## Aboout Me 👀💦
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight" width=500px>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada000&show_icons=true&theme=tokyonight&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada000&show_icons=true&theme=tokyonight&layout=compact" width=500px>
 </div>
 
 ### 🅱️ Blog
