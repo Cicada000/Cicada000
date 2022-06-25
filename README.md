@@ -7,6 +7,7 @@
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada000&show_icons=true&theme=tokyonight">
 </div>
 
 ### 🅱️ Blog
