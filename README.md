@@ -1,7 +1,6 @@
 # Hi there!🎉
 
-<div align=center><img src="https://cdn.jsdelivr.net/gh/Cicada000/Cicada000/Long.svg" width=500px></div>
-<div align=center><h3>Happy Lunar New Year</h3></div>
+<div align=center><img src="https://count.getloli.com/get/@Cicada000?theme=moebooru" width=500px></div>
 
 ## Aboout Me 👀💦
 
@@ -29,7 +28,7 @@
 
 ## Status
 <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="left">
-![MN](https://count.getloli.com/get/@Cicada000?theme=moebooru)
+
 
 
 
