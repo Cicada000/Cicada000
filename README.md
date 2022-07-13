@@ -14,7 +14,7 @@
 
 1. A 16-year-old boy.♂
 
-2. Not proficient in english(now learning it).~~Very good at Chinese~~🤣
+2. Not proficient in English (now learning it) .~~Very good at Chinese~~🤣
 
 3. Interested in table tennis and photography.🏓📷
 
