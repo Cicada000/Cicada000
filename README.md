@@ -20,7 +20,6 @@
 
 4. Know a little Python, HTML.🐍
 
-5. Aba Aba...
 
 ## Contact me 💬
 
