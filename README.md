@@ -12,7 +12,7 @@
 
 ### More About Me
 
-1. A 17-year-old boy.♂
+1. A 18-year-old boy.♂
 
 2. Not proficient in English (now learning it) .~~Very good at Chinese~~🤣
 
