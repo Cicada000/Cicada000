@@ -9,6 +9,8 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada000&show_icons=true&theme=tokyonight&layout=compact" width=500px>
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### More About Me
 
