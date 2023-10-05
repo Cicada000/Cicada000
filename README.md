@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada000&show_icons=true&theme=tokyonight&layout=compact" width=500px>
 </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
@@ -53,17 +53,17 @@ Sunday                   83 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSS                      2 mins              ████████████████████████░   95.23 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+CSS                      2 mins              ██████████████████████░░░   87.94 % 
+HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Hugo-Theme-North-Template2 mins              █████████████████████████   100.00 % 
+Hugo-Theme-North-Template3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -79,7 +79,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2023 12:56:05 UTC
+ Last Updated on 05/10/2023 01:38:51 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
