@@ -26,17 +26,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Blender                  2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Blender                  2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ink_dragon               2 hrs 49 mins       ████████████████████████░   97.79 % 
-墨竹_geo                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +51,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2024 01:28:59 UTC
+ Last Updated on 17/02/2024 01:28:01 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
