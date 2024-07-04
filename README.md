@@ -26,18 +26,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Homework 20240626        1 min               █████████████░░░░░░░░░░░░   52.22 % 
-Test                     1 min               ███████████░░░░░░░░░░░░░░   42.03 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +51,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2024 01:40:42 UTC
+ Last Updated on 04/07/2024 01:41:16 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
