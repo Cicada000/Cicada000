@@ -26,17 +26,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 37 mins       █████████████████████████   99.26 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VV                       2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +51,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2024 01:42:43 UTC
+ Last Updated on 27/07/2024 01:41:50 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
