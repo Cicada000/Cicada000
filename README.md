@@ -26,16 +26,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 min               ████████████████████████░   97.14 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shake_to_find_cursor     1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +52,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2024 01:44:29 UTC
+ Last Updated on 07/08/2024 01:45:33 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
