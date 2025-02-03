@@ -26,18 +26,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   41 mins             █████████████░░░░░░░░░░░░   52.09 % 
-JavaScript               38 mins             ████████████░░░░░░░░░░░░░   47.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   55 mins             █████████████████░░░░░░░░   69.37 % 
-PyCharm                  24 mins             ████████░░░░░░░░░░░░░░░░░   30.63 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NodeGraphTest            1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +51,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 01:57:59 UTC
+ Last Updated on 03/02/2025 01:55:15 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
