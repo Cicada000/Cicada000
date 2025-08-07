@@ -26,16 +26,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CSU-SnapUp               1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +51,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2025 02:37:06 UTC
+ Last Updated on 07/08/2025 02:37:18 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
