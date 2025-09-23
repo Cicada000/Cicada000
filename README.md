@@ -10,34 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada000&show_icons=true&theme=tokyonight&layout=compact" width=500px>
 </div>
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                182 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-🌆 Daytime                215 commits         ████████░░░░░░░░░░░░░░░░░   30.85 % 
-🌃 Evening                263 commits         █████████░░░░░░░░░░░░░░░░   37.73 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               3 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-WashMachine-WebControl   3 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -51,7 +23,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 02:16:37 UTC
+ Last Updated on 23/09/2025 02:01:03 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
