@@ -26,16 +26,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 mins              ████████████████░░░░░░░░░   65.32 % 
+VS Code                  1 min               █████████░░░░░░░░░░░░░░░░   34.68 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Test                     3 mins              █████████████████████████   99.77 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +53,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2025 02:09:35 UTC
+ Last Updated on 18/10/2025 01:58:51 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
