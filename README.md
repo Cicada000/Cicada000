@@ -26,16 +26,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      51 mins             ████████████████░░░░░░░░░   62.23 % 
+JSON                     31 mins             █████████░░░░░░░░░░░░░░░░   37.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+icar_autopilot_2025th    1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +52,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2025 02:15:43 UTC
+ Last Updated on 29/11/2025 02:16:17 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
