@@ -26,18 +26,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               34 mins             ████████████████████████░   96.24 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +51,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 02:23:52 UTC
+ Last Updated on 28/12/2025 02:39:44 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
