@@ -26,38 +26,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        ███████████████████░░░░░░   76.05 % 
-HTML                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Python                   2 hrs 16 mins       ███████████████████░░░░░░   76.01 % 
+HTML                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 10 mins       ███████████████████░░░░░░   77.54 % 
-Cicada-Welcome-Web       37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Unknown Project          2 hrs 16 mins       ███████████████████░░░░░░   75.92 % 
+Cicada-Welcome-Web       37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+DoraemonMeme             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 20/03/2026 03:14:11 UTC
+ Last Updated on 21/03/2026 03:06:11 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
