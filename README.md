@@ -13,10 +13,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                184 commits         ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌆 Daytime                218 commits         ████████░░░░░░░░░░░░░░░░░   31.05 % 
-🌃 Evening                263 commits         █████████░░░░░░░░░░░░░░░░   37.46 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+🌞 Morning                184 commits         ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+🌆 Daytime                218 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
+🌃 Evening                266 commits         █████████░░░░░░░░░░░░░░░░   37.73 % 
+🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 ```
 
 
@@ -26,39 +26,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 16 mins       ███████████████████░░░░░░   76.01 % 
-HTML                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   2 hrs 17 mins       ████████████████░░░░░░░░░   64.06 % 
+HTML                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 16 mins       ███████████████████░░░░░░   75.92 % 
-Cicada-Welcome-Web       37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-DoraemonMeme             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Unknown Project          2 hrs 30 mins       ██████████████████░░░░░░░   70.20 % 
+Cicada-Welcome-Web       37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Comic-Panel-Cutting      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+DoraemonMeme             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      3 hrs               █████████████████████████   100.00 % 
+Mac                      3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 21/03/2026 03:06:11 UTC
+ Last Updated on 22/03/2026 03:24:11 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
