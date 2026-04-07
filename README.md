@@ -5,9 +5,8 @@
 ## Aboout Me 👀💦
 
 <div align=center>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cicada000&theme=tokyonight" width=500px>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cicada000&theme=tokyonight" width=500px>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cicada000&theme=tokyonight" height="150">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cicada000&theme=tokyonight" height="150">
 </div>
 
 <!--START_SECTION:waka-->
@@ -69,7 +68,6 @@ Swift                    1 repo              █░░░░░░░░░░�
 ## Contact me 💬
 
 [Telegram](https://t.me/CicadaLYW)&emsp;[Twitter](https://twitter.com/Cicada0001)&emsp;[Github](https://github.com/Cicada000)
-
 
 
 
