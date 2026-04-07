@@ -5,10 +5,11 @@
 ## Aboout Me 👀💦
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Cicada000&show_icons=true&theme=tokyonight" width=500px>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cicada000&theme=tokyonight" width=500px>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicada000&show_icons=true&theme=tokyonight&layout=compact" width=500px>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cicada000&theme=tokyonight" width=500px>
 </div>
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -56,7 +57,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 ### More About Me
 
-1. A 18-year-old boy.♂
+1. A 20-year-old boy.♂
 
 2. Not proficient in English (now learning it) .~~Very good at Chinese~~🤣
 
@@ -68,12 +69,6 @@ Swift                    1 repo              █░░░░░░░░░░�
 ## Contact me 💬
 
 [Telegram](https://t.me/CicadaLYW)&emsp;[Twitter](https://twitter.com/Cicada0001)&emsp;[Github](https://github.com/Cicada000)
-
-## Status
-<img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="left">
-
-
-
 
 
 

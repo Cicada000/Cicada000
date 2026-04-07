@@ -5,11 +5,17 @@ on:
     # Runs at 12am IST
     - cron: '30 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -20,3 +26,29 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_DAYS_OF_WEEK: False
           SHOW_SHORT_INFO: False
+
+      - name: Fix waka section spacing
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          content = readme.read_text()
+          marker = "<!--START_SECTION:waka-->\n"
+
+          if marker in content and f"{marker}\n" not in content:
+              content = content.replace(marker, f"{marker}\n", 1)
+              readme.write_text(content)
+          PY
+
+      - name: Commit spacing fix
+        run: |
+          if git diff --quiet README.md; then
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Fix waka section spacing"
+          git push
