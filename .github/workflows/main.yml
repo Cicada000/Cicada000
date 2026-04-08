@@ -27,7 +27,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: False
           SHOW_SHORT_INFO: False
 
-      - name: Fix waka section spacing
+      - name: Normalize waka section
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -41,8 +41,6 @@ jobs:
               readme.write_text(content)
           PY
 
-      - name: Commit spacing fix
-        run: |
           if git diff --quiet README.md; then
             exit 0
           fi
@@ -50,5 +48,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Fix waka section spacing"
+          git commit -m "Normalize waka section spacing"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
