@@ -10,14 +10,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                187 commits         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-🌆 Daytime                226 commits         ████████░░░░░░░░░░░░░░░░░   31.30 % 
-🌃 Evening                272 commits         █████████░░░░░░░░░░░░░░░░   37.67 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+🌞 Morning                187 commits         ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+🌆 Daytime                229 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌃 Evening                272 commits         █████████░░░░░░░░░░░░░░░░   37.52 % 
+🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 
 
@@ -27,34 +26,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 17 mins             █████████████████████████   100.00 % 
+Markdown                 1 hr 41 mins        █████████████████████████   98.31 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Cicada000                14 mins             ██████████████████████░░░   86.06 % 
-11-Days-LeeDL            2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+11-Days-LeeDL            1 hr 28 mins        █████████████████████░░░░   85.52 % 
+Cicada000                14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 
 💻 Operating System: 
-Mac                      14 mins             ██████████████████████░░░   86.06 % 
-Linux                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Mac                      1 hr 40 mins        ████████████████████████░   97.65 % 
+Linux                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 08/04/2026 04:36:17 UTC
+ Last Updated on 09/04/2026 03:32:15 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
