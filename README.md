@@ -10,6 +10,34 @@
 </div>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                189 commits         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+🌆 Daytime                234 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌃 Evening                281 commits         █████████░░░░░░░░░░░░░░░░   37.82 % 
+🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -23,7 +51,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 04:33:05 UTC
+ Last Updated on 16/05/2026 04:07:32 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
