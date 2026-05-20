@@ -26,16 +26,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+affinity-photo-2-plugin-c4 mins              ████████████████░░░░░░░░░   62.36 % 
+ArucoCalib               2 mins              █████████░░░░░░░░░░░░░░░░   37.64 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +52,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 04:38:52 UTC
+ Last Updated on 20/05/2026 04:42:22 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
