@@ -13,10 +13,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                193 commits         ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌆 Daytime                247 commits         ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌃 Evening                306 commits         ██████████░░░░░░░░░░░░░░░   38.88 % 
-🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+🌞 Morning                193 commits         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+🌆 Daytime                253 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
+🌃 Evening                313 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
 
@@ -26,44 +26,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      14 hrs 21 mins      █████████████░░░░░░░░░░░░   52.01 % 
-Python                   5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Markdown                 3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-CMake                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+C++                      14 hrs 49 mins      █████████████░░░░░░░░░░░░   51.04 % 
+Python                   5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Markdown                 4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+CMake                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Codex CLI                19 hrs 32 mins      ██████████████████░░░░░░░   70.80 % 
-VS Code                  4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Claude Code              1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Antigravity CLI          1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Codex CLI                20 hrs 48 mins      ██████████████████░░░░░░░   71.63 % 
+VS Code                  5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Claude Code              1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Antigravity CLI          1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_LineFollower  12 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.30 % 
-VirtualBridge            4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-map_process              4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-XSmartCar                2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Unknown Project          2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+XSmart_Car_LineFollower  13 hrs 47 mins      ████████████░░░░░░░░░░░░░   47.46 % 
+VirtualBridge            4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+map_process              4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+XSmartCar                2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Unknown Project          1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 💻 Operating System: 
-Mac                      23 hrs 35 mins      █████████████████████░░░░   85.45 % 
-Linux                    4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Mac                      24 hrs 44 mins      █████████████████████░░░░   85.15 % 
+Linux                    4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 11/07/2026 03:49:53 UTC
+ Last Updated on 12/07/2026 04:05:30 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
