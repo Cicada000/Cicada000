@@ -10,14 +10,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                194 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌆 Daytime                262 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
-🌃 Evening                335 commits         ██████████░░░░░░░░░░░░░░░   40.12 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+🌞 Morning                196 commits         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+🌆 Daytime                262 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌃 Evening                337 commits         ██████████░░░░░░░░░░░░░░░   40.17 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 
 
@@ -27,27 +26,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
-JavaScript               3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-C++                      2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-HTML                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Markdown                 3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+JavaScript               3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+C++                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+HTML                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-Codex CLI                8 hrs 42 mins       ████████████████░░░░░░░░░   62.39 % 
-Antigravity CLI          3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-VS Code                  1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Antigravity CLI          5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.70 % 
+Codex CLI                4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.41 % 
+VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_LineFollower  7 hrs 44 mins       ██████████████░░░░░░░░░░░   55.47 % 
-XSmart_Car_AutoDataLabeli4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-Dataset-Process          1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-XSmart_Car_VirtualBridge 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-XSmartCar                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+XSmart_Car_AutoDataLabeli4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.00 % 
+XSmart_Car_LineFollower  3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+Dataset-Process          1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+XSmart_Car_VirtualBridge 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+RK3588                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 💻 Operating System: 
-Mac                      11 hrs 35 mins      █████████████████████░░░░   83.06 % 
-Linux                    2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Mac                      8 hrs 16 mins       ██████████████████░░░░░░░   70.59 % 
+Linux                    3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,7 +62,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 04:04:40 UTC
+ Last Updated on 27/07/2026 04:11:56 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
