@@ -10,8 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2042%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -28,50 +26,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
-Markdown                 2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-HTML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JavaScript               3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.32 % 
+Markdown                 2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
+HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+CSS                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Antigravity CLI          4 hrs 28 mins       █████████████░░░░░░░░░░░░   52.09 % 
-Codex CLI                2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
-VS Code                  1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Antigravity CLI          4 hrs 12 mins       ██████████████░░░░░░░░░░░   54.03 % 
+Codex CLI                2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
+VS Code                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_AutoDataLabeli4 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.31 % 
-Dataset-Process          1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-XSmart_Car_VirtualBridge 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-RK3588                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-XSmart_Car_LineFollower  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+XSmart_Car_AutoDataLabeli4 hrs 9 mins        █████████████░░░░░░░░░░░░   53.44 % 
+Dataset-Process          1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+XSmart_Car_VirtualBridge 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+RK3588                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+XSmartCar                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Mac                      5 hrs 57 mins       █████████████████░░░░░░░░   69.19 % 
-Linux                    2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
+Mac                      5 hrs 7 mins        ████████████████░░░░░░░░░   65.91 % 
+Linux                    2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 52 mins (91.59%)
+⏱ AI Coding Time: 7 hrs 23 mins (95.11%)
 
-✍️ 3,503 lines written by AI, 73 lines written by hand (97.96% AI-written)
+✍️ 3,474 lines written by AI, 70 lines written by hand (98.02% AI-written)
 
-🔤 36,808,125 Input Tokens, 167,910 Output Tokens
+🔤 32,163,804 Input Tokens, 155,558 Output Tokens
 
-💵 $195.53 Estimated AI Cost This Week
+💵 $186.90 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 104 AI Prompts
+🧠 13 AI Sessions, 94 AI Prompts
 
-GPT                      2,185 lines         ██████████████░░░░░░░░░░░   55.50 % 
-Gemini                   1,752 lines         ███████████░░░░░░░░░░░░░░   44.50 % 
+GPT                      2,156 lines         ██████████████░░░░░░░░░░░   55.17 % 
+Gemini                   1,752 lines         ███████████░░░░░░░░░░░░░░   44.83 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.96% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.73% of changed lines were hand-edited
+🤖 AI-Driven — 98.02% of written lines came from AI
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 2.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 03:44:32 UTC
+ Last Updated on 29/07/2026 03:48:34 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
