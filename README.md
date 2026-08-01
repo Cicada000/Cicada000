@@ -10,16 +10,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2046%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                197 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌆 Daytime                270 commits         ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌃 Evening                337 commits         ██████████░░░░░░░░░░░░░░░   39.74 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+🌞 Morning                198 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+🌆 Daytime                270 commits         ████████░░░░░░░░░░░░░░░░░   31.80 % 
+🌃 Evening                337 commits         ██████████░░░░░░░░░░░░░░░   39.69 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 
 
@@ -29,48 +28,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 39 mins        ██████████████████░░░░░░░   72.45 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Markdown                 1 hr 37 mins        ███████████████████░░░░░░   77.40 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 57 mins        █████████████████████░░░░   85.29 % 
-VS Code                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Antigravity CLI          1 hr 48 mins        █████████████████████░░░░   85.53 % 
+VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_VirtualBridge 58 mins             ███████████░░░░░░░░░░░░░░   42.33 % 
-RK3588                   53 mins             ██████████░░░░░░░░░░░░░░░   38.74 % 
-XSmart_Car_AutoDataLabeli14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-XSmartCar                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+XSmart_Car_VirtualBridge 58 mins             ████████████░░░░░░░░░░░░░   46.06 % 
+RK3588                   53 mins             ███████████░░░░░░░░░░░░░░   42.15 % 
+XSmartCar                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+XSmart_Car_AutoDataLabeli3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Mac                      1 hr 12 mins        █████████████░░░░░░░░░░░░   52.89 % 
-Linux                    1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.11 % 
+Linux                    1 hr 4 mins         █████████████░░░░░░░░░░░░   51.27 % 
+Mac                      1 hr 1 min          ████████████░░░░░░░░░░░░░   48.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (96.02%)
+⏱ AI Coding Time: 2 hrs 2 mins (96.99%)
 
-✍️ 645 lines written by AI, 4 lines written by hand (99.38% AI-written)
+✍️ 452 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 46 AI Prompts
+🧠 8 AI Sessions, 41 AI Prompts
 
-Gemini                   710 lines           █████████████████████████   100.00 % 
+Gemini                   505 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📝 Concise Prompter — average 111 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 117 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.7% of changed lines were hand-edited
+🚀 High AI Trust — 5.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:59:05 UTC
+ Last Updated on 01/08/2026 03:59:16 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
