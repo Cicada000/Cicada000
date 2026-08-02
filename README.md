@@ -28,48 +28,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 37 mins        ███████████████████░░░░░░   77.40 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Markdown                 1 hr 28 mins        ████████████████████░░░░░   81.87 % 
+Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 48 mins        █████████████████████░░░░   85.53 % 
-VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Antigravity CLI          1 hr 31 mins        █████████████████████░░░░   84.32 % 
+VS Code                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_VirtualBridge 58 mins             ████████████░░░░░░░░░░░░░   46.06 % 
-RK3588                   53 mins             ███████████░░░░░░░░░░░░░░   42.15 % 
-XSmartCar                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-XSmart_Car_AutoDataLabeli3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+RK3588                   53 mins             ████████████░░░░░░░░░░░░░   49.37 % 
+XSmart_Car_VirtualBridge 39 mins             █████████░░░░░░░░░░░░░░░░   36.83 % 
+XSmartCar                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+XSmart_Car_AutoDataLabeli3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████░░░░░░░░░░░░   51.27 % 
-Mac                      1 hr 1 min          ████████████░░░░░░░░░░░░░   48.73 % 
+Linux                    1 hr 4 mins         ███████████████░░░░░░░░░░   60.04 % 
+Mac                      43 mins             ██████████░░░░░░░░░░░░░░░   39.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (96.99%)
+⏱ AI Coding Time: 1 hr 45 mins (97.74%)
 
-✍️ 452 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 137 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 41 AI Prompts
+🧠 7 AI Sessions, 33 AI Prompts
 
-Gemini                   505 lines           █████████████████████████   100.00 % 
+Gemini                   190 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
+📝 Concise Prompter — average 131 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.61% of changed lines were hand-edited
+🚀 High AI Trust — 13.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 03:59:16 UTC
+ Last Updated on 02/08/2026 04:04:55 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
