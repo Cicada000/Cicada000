@@ -28,41 +28,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 mins              ██████████████████████░░░   88.63 % 
-C++                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity CLI          2 mins              █████████████░░░░░░░░░░░░   53.43 % 
-VS Code                  2 mins              ████████████░░░░░░░░░░░░░   46.57 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-XSmart_Car_AutoDataLabeli3 mins              ███████████████████░░░░░░   75.27 % 
-XSmart_Car_VirtualBridge 1 min               ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (74.14%)
-
-✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-Gemini                   7 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 20 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +59,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 04:04:46 UTC
+ Last Updated on 04/08/2026 03:45:56 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
