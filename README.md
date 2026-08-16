@@ -10,7 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-213%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2026%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -28,26 +28,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 12 mins        █████████████████░░░░░░░░   69.77 % 
-Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+C++                      1 hr 12 mins        ███████████████░░░░░░░░░░   61.90 % 
+JSON                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 28 mins        █████████████████████░░░░   85.35 % 
-Antigravity CLI          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Codex CLI                1 hr 28 mins        ███████████████████░░░░░░   75.73 % 
+VS Code                  17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Antigravity CLI          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_LineFollower  1 hr 44 mins        █████████████████████████   100.00 % 
+XSmart_Car_LineFollower  1 hr 44 mins        ██████████████████████░░░   88.73 % 
+Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (95.87%)
+⏱ AI Coding Time: 1 hr 39 mins (85.06%)
 
 ✍️ 353 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -79,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 01:55:24 UTC
+ Last Updated on 16/08/2026 02:02:02 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
