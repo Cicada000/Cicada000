@@ -15,9 +15,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                199 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-🌆 Daytime                273 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌃 Evening                343 commits         ██████████░░░░░░░░░░░░░░░   39.93 % 
+🌞 Morning                199 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
+🌃 Evening                343 commits         ██████████░░░░░░░░░░░░░░░   39.88 % 
 🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
@@ -28,43 +28,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 12 mins        ███████████████░░░░░░░░░░   61.90 % 
-JSON                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+C++                      9 hrs 48 mins       █████████████████████░░░░   84.23 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 28 mins        ███████████████████░░░░░░   75.73 % 
-VS Code                  17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Antigravity CLI          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Codex CLI                8 hrs 28 mins       ██████████████████░░░░░░░   72.76 % 
+Antigravity CLI          2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+VS Code                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_LineFollower  1 hr 44 mins        ██████████████████████░░░   88.73 % 
-Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+XSmart_Car_LineFollower  10 hrs 58 mins      ████████████████████████░   94.28 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+XSmartCar                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 15 mins       ████████████████████░░░░░   79.49 % 
+Linux                    2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (85.06%)
+⏱ AI Coding Time: 11 hrs 26 mins (98.32%)
 
-✍️ 353 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,831 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,155,810 Input Tokens, 68,093 Output Tokens
+🔤 5,106,413 Input Tokens, 329,644 Output Tokens
 
-💵 $14.58 Estimated AI Cost This Week
+💵 $71.50 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 16 AI Sessions, 106 AI Prompts
 
-GPT                      353 lines           █████████████████████████   100.00 % 
+GPT                      1,936 lines         █████████████████████████   99.95 % 
+Gemini                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +84,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 02:02:02 UTC
+ Last Updated on 17/08/2026 02:00:22 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
