@@ -10,8 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -29,46 +28,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 54 mins       ███████████████████░░░░░░   77.97 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-CMake                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+C++                      5 hrs 4 mins        ███████████████████░░░░░░   75.46 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+CMake                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 6 mins        █████████████████░░░░░░░░   67.47 % 
-Antigravity CLI          1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Codex CLI                4 hrs 15 mins       ████████████████░░░░░░░░░   63.36 % 
+Antigravity CLI          1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_LineFollower  6 hrs 41 mins       ██████████████████████░░░   88.48 % 
-Unknown Project          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-XSmartCar                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+XSmart_Car_LineFollower  5 hrs 51 mins       ██████████████████████░░░   87.02 % 
+Unknown Project          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+XSmartCar                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 💻 Operating System: 
-Mac                      5 hrs 31 mins       ██████████████████░░░░░░░   73.03 % 
-Linux                    2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Mac                      4 hrs 40 mins       █████████████████░░░░░░░░   69.63 % 
+Linux                    2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 10 mins (94.68%)
+⏱ AI Coding Time: 6 hrs 19 mins (94.01%)
 
-✍️ 2,098 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,856 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,758,099 Input Tokens, 348,810 Output Tokens
+🔤 5,117,162 Input Tokens, 311,958 Output Tokens
 
-💵 $55.30 Estimated AI Cost This Week
+💵 $48.22 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 66 AI Prompts
+🧠 13 AI Sessions, 60 AI Prompts
 
-GPT                      2,119 lines         █████████████████████████   99.95 % 
+GPT                      1,877 lines         █████████████████████████   99.95 % 
 Gemini                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 138 characters per prompt
+📝 Concise Prompter — average 147 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
@@ -86,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 01:57:10 UTC
+ Last Updated on 21/08/2026 02:03:58 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
