@@ -10,7 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -29,42 +28,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      7 hrs 21 mins       █████████████████████░░░░   82.88 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-CMake                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+C++                      5 hrs 34 mins       ████████████████████░░░░░   78.68 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+CMake                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-Codex CLI                8 hrs 37 mins       ████████████████████████░   97.05 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Codex CLI                6 hrs 49 mins       ████████████████████████░   96.30 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🐱‍💻 Projects: 
-XSmart_Car_LineFollower  8 hrs 40 mins       ████████████████████████░   97.67 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+XSmart_Car_LineFollower  6 hrs 52 mins       ████████████████████████░   97.08 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Mac                      8 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 38 mins (97.25%)
+⏱ AI Coding Time: 6 hrs 50 mins (96.55%)
 
-✍️ 2,156 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,942 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,685,177 Input Tokens, 586,899 Output Tokens
+🔤 10,347,321 Input Tokens, 490,127 Output Tokens
 
-💵 $99.46 Estimated AI Cost This Week
+💵 $81.87 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 74 AI Prompts
+🧠 12 AI Sessions, 59 AI Prompts
 
-GPT                      2,207 lines         █████████████████████████   100.00 % 
+GPT                      1,950 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
+📝 Concise Prompter — average 98 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -82,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 02:03:25 UTC
+ Last Updated on 25/08/2026 01:58:31 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
