@@ -10,8 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -29,49 +28,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     44 mins             ██████████░░░░░░░░░░░░░░░   40.18 % 
-Cuda                     33 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
-TeX                      32 mins             ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TeX                      1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
+Markdown                 1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+YAML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Cuda                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 🔥 Editors: 
-Antigravity CLI          46 mins             ██████████░░░░░░░░░░░░░░░   41.56 % 
-VS Code                  40 mins             █████████░░░░░░░░░░░░░░░░   36.69 % 
-Codex CLI                24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+VS Code                  3 hrs 19 mins       █████████████████░░░░░░░░   66.58 % 
+Codex CLI                54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Antigravity CLI          46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 
 🐱‍💻 Projects: 
-CUDA                     1 hr 13 mins        ████████████████░░░░░░░░░   65.95 % 
-简历                       32 mins             ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Cicada000                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+桌面                       1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   35.87 % 
+简历                       1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
+CUDA                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Cicada000                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Linux                    1 hr 18 mins        ██████████████████░░░░░░░   70.48 % 
-Mac                      32 mins             ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+Linux                    3 hrs 13 mins       ████████████████░░░░░░░░░   64.74 % 
+Mac                      1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (99.7%)
+⏱ AI Coding Time: 4 hrs 34 mins (91.78%)
 
-✍️ 385 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 525 lines written by AI, 13 lines written by hand (97.58% AI-written)
 
-🔤 518,314 Input Tokens, 49,704 Output Tokens
+🔤 4,010,046 Input Tokens, 187,881 Output Tokens
 
-💵 $9.43 Estimated AI Cost This Week
+💵 $74.56 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 31 AI Prompts
+🧠 16 AI Sessions, 47 AI Prompts
 
-Deepseek                 385 lines           ████████████████████████░   97.96 % 
-GPT                      8 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Deepseek                 526 lines           ████████████████████████░   96.87 % 
+GPT                      17 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 896 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.58% of written lines came from AI
+📄 Detailed Prompter — average 703 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +87,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 04:47:56 UTC
+ Last Updated on 05/09/2026 04:42:50 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
