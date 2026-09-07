@@ -10,6 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
+
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2035%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
