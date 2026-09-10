@@ -10,7 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2025%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -28,50 +28,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Docker                   1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Markdown                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-TeX                      1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-YAML                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Docker                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+Markdown                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+TeX                      1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+YAML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 
 🔥 Editors: 
-Codex CLI                4 hrs 40 mins       █████████████░░░░░░░░░░░░   53.02 % 
-VS Code                  3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
-Antigravity CLI          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Codex CLI                4 hrs 40 mins       ███████████████░░░░░░░░░░   59.98 % 
+VS Code                  2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
+Antigravity CLI          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🐱‍💻 Projects: 
-Cicada000                3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
-简历                       2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-桌面                       1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-CUDA                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Cicada000                3 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.46 % 
+简历                       2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+桌面                       1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+CUDA                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Mac                      5 hrs 35 mins       ████████████████░░░░░░░░░   63.34 % 
-Linux                    3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
+Mac                      5 hrs 35 mins       ██████████████████░░░░░░░   71.66 % 
+Linux                    2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 24 mins (95.34%)
+⏱ AI Coding Time: 7 hrs 22 mins (94.73%)
 
-✍️ 677 lines written by AI, 13 lines written by hand (98.12% AI-written)
+✍️ 292 lines written by AI, 13 lines written by hand (95.74% AI-written)
 
-🔤 6,932,474 Input Tokens, 247,095 Output Tokens
+🔤 6,591,404 Input Tokens, 208,996 Output Tokens
 
-💵 $88.84 Estimated AI Cost This Week
+💵 $81.00 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 68 AI Prompts
+🧠 11 AI Sessions, 59 AI Prompts
 
-Deepseek                 526 lines           ███████████████████░░░░░░   74.72 % 
-GPT                      178 lines           ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+GPT                      178 lines           ██████████████░░░░░░░░░░░   55.80 % 
+Deepseek                 141 lines           ███████████░░░░░░░░░░░░░░   44.20 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.12% of written lines came from AI
-📚 Verbose Prompter — average 1,523 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.36% of changed lines were hand-edited
+🤖 AI-Driven — 95.74% of written lines came from AI
+📚 Verbose Prompter — average 1,752 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 5.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +87,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 04:56:21 UTC
+ Last Updated on 10/09/2026 04:58:04 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
