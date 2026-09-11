@@ -28,50 +28,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Docker                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Markdown                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-TeX                      1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-YAML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Docker                   1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+TeX                      1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+YAML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Bash                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 
 🔥 Editors: 
-Codex CLI                4 hrs 40 mins       ███████████████░░░░░░░░░░   59.98 % 
-VS Code                  2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
-Antigravity CLI          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Codex CLI                4 hrs 16 mins       ███████████████░░░░░░░░░░   59.95 % 
+VS Code                  2 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
 
 🐱‍💻 Projects: 
-Cicada000                3 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.46 % 
-简历                       2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-桌面                       1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-CUDA                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Cicada000                3 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.61 % 
+桌面                       1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+简历                       1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-Mac                      5 hrs 35 mins       ██████████████████░░░░░░░   71.66 % 
-Linux                    2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Mac                      5 hrs 11 mins       ██████████████████░░░░░░░   72.91 % 
+Linux                    1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 22 mins (94.73%)
+⏱ AI Coding Time: 6 hrs 42 mins (94.09%)
 
 ✍️ 292 lines written by AI, 13 lines written by hand (95.74% AI-written)
 
-🔤 6,591,404 Input Tokens, 208,996 Output Tokens
+🔤 7,464,154 Input Tokens, 201,494 Output Tokens
 
-💵 $81.00 Estimated AI Cost This Week
+💵 $84.81 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 59 AI Prompts
+🧠 5 AI Sessions, 37 AI Prompts
 
-GPT                      178 lines           ██████████████░░░░░░░░░░░   55.80 % 
-Deepseek                 141 lines           ███████████░░░░░░░░░░░░░░   44.20 % 
+GPT                      170 lines           ██████████████░░░░░░░░░░░   54.66 % 
+Deepseek                 141 lines           ███████████░░░░░░░░░░░░░░   45.34 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 95.74% of written lines came from AI
-📚 Verbose Prompter — average 1,752 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.06% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,047 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 6.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 04:58:04 UTC
+ Last Updated on 11/09/2026 04:54:38 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
