@@ -10,7 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2025%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -29,48 +28,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Docker                   1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-TeX                      1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-YAML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Bash                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+YAML                     4 hrs 3 mins        ██████████████░░░░░░░░░░░   57.44 % 
+Docker                   1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+Bash                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TeX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-Codex CLI                4 hrs 16 mins       ███████████████░░░░░░░░░░   59.95 % 
-VS Code                  2 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+Codex CLI                3 hrs 46 mins       █████████████░░░░░░░░░░░░   53.40 % 
+Codex Vscode             3 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-Cicada000                3 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.61 % 
-桌面                       1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-简历                       1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Cicada000                3 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.04 % 
+qin                      3 hrs               ███████████░░░░░░░░░░░░░░   42.67 % 
+简历                       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 💻 Operating System: 
-Mac                      5 hrs 11 mins       ██████████████████░░░░░░░   72.91 % 
-Linux                    1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 42 mins (94.09%)
+⏱ AI Coding Time: 7 hrs 3 mins (100.0%)
 
-✍️ 292 lines written by AI, 13 lines written by hand (95.74% AI-written)
+✍️ 241 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,464,154 Input Tokens, 201,494 Output Tokens
+🔤 8,900,099 Input Tokens, 213,039 Output Tokens
 
-💵 $84.81 Estimated AI Cost This Week
+💵 $34.58 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 37 AI Prompts
+🧠 4 AI Sessions, 31 AI Prompts
 
-GPT                      170 lines           ██████████████░░░░░░░░░░░   54.66 % 
-Deepseek                 141 lines           ███████████░░░░░░░░░░░░░░   45.34 % 
+GPT                      250 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.74% of written lines came from AI
-📚 Verbose Prompter — average 2,047 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 6.89% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,301 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +83,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 04:54:38 UTC
+ Last Updated on 12/09/2026 04:47:09 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
