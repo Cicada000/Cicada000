@@ -10,8 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2025%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -29,47 +28,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     4 hrs 48 mins       ███████████████░░░░░░░░░░   61.55 % 
-Docker                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-TeX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+YAML                     4 hrs 48 mins       ███████████████░░░░░░░░░░   60.94 % 
+Docker                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.23 % 
-Codex Vscode             3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
-Antigravity CLI          45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Codex CLI                3 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.28 % 
+Codex Vscode             3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
+Antigravity CLI          45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🐱‍💻 Projects: 
-Cicada000                3 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
-qin                      3 hrs               ██████████░░░░░░░░░░░░░░░   38.54 % 
-PrisonGothic-Render      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-简历                       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Cicada000                3 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.38 % 
+qin                      3 hrs               ██████████░░░░░░░░░░░░░░░   38.16 % 
+PrisonGothic-Render      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+简历                       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 💻 Operating System: 
-Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 49 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 47 mins (98.6%)
 
 ✍️ 241 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,900,099 Input Tokens, 213,039 Output Tokens
+🔤 8,834,444 Input Tokens, 207,877 Output Tokens
 
-💵 $34.58 Estimated AI Cost This Week
+💵 $34.02 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 38 AI Prompts
+🧠 4 AI Sessions, 37 AI Prompts
 
 GPT                      250 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,887 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 1,936 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -86,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 05:11:19 UTC
+ Last Updated on 15/09/2026 05:05:40 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
