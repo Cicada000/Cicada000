@@ -10,8 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2034%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -29,27 +28,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     3 hrs 59 mins       ████████████████████████░   97.18 % 
-TeX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+YAML                     3 hrs 59 mins       ██████████████████████░░░   89.83 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+TeX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 12 mins       ████████████████████░░░░░   78.19 % 
-Antigravity CLI          45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Codex Vscode             3 hrs 12 mins       ██████████████████░░░░░░░   72.27 % 
+Antigravity CLI          1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🐱‍💻 Projects: 
-qin                      3 hrs               ██████████████████░░░░░░░   73.27 % 
-PrisonGothic-Render      45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-简历                       20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+qin                      3 hrs               █████████████████░░░░░░░░   67.73 % 
+PrisonGothic-Render      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+简历                       20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Quant                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 💻 Operating System: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (97.31%)
+⏱ AI Coding Time: 4 hrs 20 mins (97.51%)
 
 ✍️ 89 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -57,13 +59,13 @@ Mac                      4 hrs 6 mins        ███████████�
 
 💵 $20.30 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 23 AI Prompts
 
 GPT                      89 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 72 characters per prompt
+📝 Concise Prompter — average 122 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -81,7 +83,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 05:01:17 UTC
+ Last Updated on 17/09/2026 05:03:26 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
