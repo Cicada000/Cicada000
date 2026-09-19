@@ -28,46 +28,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     3 hrs 59 mins       ██████████████████████░░░   89.83 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-TeX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+YAML                     4 hrs 18 mins       ████████████████░░░░░░░░░   62.29 % 
+Markdown                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Python                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 12 mins       ██████████████████░░░░░░░   72.27 % 
-Antigravity CLI          1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Codex Vscode             3 hrs               ███████████░░░░░░░░░░░░░░   43.46 % 
+Codex CLI                2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.06 % 
+Antigravity CLI          1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🐱‍💻 Projects: 
-qin                      3 hrs               █████████████████░░░░░░░░   67.73 % 
-PrisonGothic-Render      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-简历                       20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Quant                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+qin                      2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
+Cicada000                1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+简历                       49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+PrisonGothic-Render      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Desktop                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 20 mins (97.51%)
+⏱ AI Coding Time: 6 hrs 48 mins (98.4%)
 
-✍️ 89 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,491 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,977,671 Input Tokens, 153,825 Output Tokens
+🔤 4,192,669 Input Tokens, 266,234 Output Tokens
 
-💵 $20.30 Estimated AI Cost This Week
+💵 $18.51 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 23 AI Prompts
+🧠 5 AI Sessions, 39 AI Prompts
 
-GPT                      89 lines            █████████████████████████   100.00 % 
+GPT                      2,494 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
+📝 Concise Prompter — average 104 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +86,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 04:56:41 UTC
+ Last Updated on 19/09/2026 04:48:03 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
