@@ -15,10 +15,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                199 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-🌆 Daytime                273 commits         ████████░░░░░░░░░░░░░░░░░   31.56 % 
-🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+🌞 Morning                199 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
+🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
@@ -28,31 +28,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
-YAML                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Python                   43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Markdown                 1 hr 16 mins        ████████████░░░░░░░░░░░░░   48.67 % 
+Python                   43 mins             ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+TeX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 9 mins        ████████████████░░░░░░░░░   64.06 % 
-Antigravity CLI          1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.50 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Codex CLI                2 hrs 9 mins        █████████████████████░░░░   82.65 % 
+Antigravity CLI          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🐱‍💻 Projects: 
-Cicada000                1 hr 33 mins        ████████████░░░░░░░░░░░░░   46.35 % 
-PrisonGothic-Render      45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-简历                       42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Quant                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Cicada000                1 hr 33 mins        ███████████████░░░░░░░░░░   59.81 % 
+简历                       42 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Quant                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 
 💻 Operating System: 
-Mac                      3 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 15 mins (96.71%)
+⏱ AI Coding Time: 2 hrs 29 mins (95.75%)
 
 ✍️ 2,482 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -60,14 +59,14 @@ Mac                      3 hrs 21 mins       ███████████�
 
 💵 $7.93 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 30 AI Prompts
+🧠 2 AI Sessions, 23 AI Prompts
 
 GPT                      2,485 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 116 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 135 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
@@ -84,7 +83,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 05:05:02 UTC
+ Last Updated on 21/09/2026 05:10:45 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
