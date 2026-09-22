@@ -10,16 +10,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2054%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                199 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
-🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   31.60 % 
+🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.25 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 ```
 
 
@@ -29,46 +28,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        ████████████░░░░░░░░░░░░░   48.67 % 
-Python                   43 mins             ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-TeX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Markdown                 1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   40.97 % 
+Python                   1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   34.30 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 9 mins        █████████████████████░░░░   82.65 % 
-Antigravity CLI          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Codex CLI                2 hrs 30 mins       ████████████████████░░░░░   80.77 % 
+Antigravity CLI          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🐱‍💻 Projects: 
-Cicada000                1 hr 33 mins        ███████████████░░░░░░░░░░   59.81 % 
-简历                       42 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Quant                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Cicada000                1 hr 35 mins        █████████████░░░░░░░░░░░░   51.25 % 
+简历                       35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Unknown Project          24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Quant                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+ekta                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Mac                      2 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 52 mins       ███████████████████████░░   92.56 % 
+Linux                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 29 mins (95.75%)
+⏱ AI Coding Time: 2 hrs 52 mins (92.92%)
 
-✍️ 2,482 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,804 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,747,554 Input Tokens, 99,034 Output Tokens
+🔤 1,909,361 Input Tokens, 117,581 Output Tokens
 
-💵 $7.93 Estimated AI Cost This Week
+💵 $8.86 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 23 AI Prompts
+🧠 6 AI Sessions, 28 AI Prompts
 
-GPT                      2,485 lines         █████████████████████████   100.00 % 
+GPT                      2,807 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 135 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+📝 Concise Prompter — average 123 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +86,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 05:10:45 UTC
+ Last Updated on 22/09/2026 05:11:54 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
