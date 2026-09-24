@@ -10,7 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-235%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -28,49 +28,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 3 mins        ██████████████░░░░░░░░░░░   55.99 % 
-JSON                     45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Bash                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python                   5 hrs 53 mins       ██████████████░░░░░░░░░░░   57.69 % 
+Bash                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 47 mins        ████████████░░░░░░░░░░░░░   48.80 % 
-VS Code                  1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   40.95 % 
-Antigravity CLI          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Codex CLI                6 hrs 47 mins       █████████████████░░░░░░░░   66.48 % 
+VS Code                  2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Antigravity CLI          1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   40.68 % 
-meituan                  43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-wx-mp-mcp                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Bonsai                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Quant                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Unknown Project          2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+ComfyUI                  2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Bonsai                   1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+ekta                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Quant                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 💻 Operating System: 
-Mac                      1 hr 54 mins        █████████████░░░░░░░░░░░░   52.10 % 
-Linux                    1 hr 45 mins        ████████████░░░░░░░░░░░░░   47.90 % 
+Linux                    6 hrs 48 mins       █████████████████░░░░░░░░   66.67 % 
+Mac                      3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (70.19%)
+⏱ AI Coding Time: 8 hrs 17 mins (81.05%)
 
-✍️ 439 lines written by AI, 414 lines written by hand (51.47% AI-written)
+✍️ 1,039 lines written by AI, 1,418 lines written by hand (42.29% AI-written)
 
-🔤 2,386,313 Input Tokens, 86,280 Output Tokens
+🔤 8,426,581 Input Tokens, 225,640 Output Tokens
 
-💵 $8.44 Estimated AI Cost This Week
+💵 $28.03 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 30 AI Prompts
+🧠 19 AI Sessions, 78 AI Prompts
 
-GPT                      439 lines           █████████████████████████   100.00 % 
+GPT                      1,077 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.47% of written lines came from AI
-📝 Concise Prompter — average 94 characters per prompt
+⚖️ Balanced with AI — 42.29% of written lines came from AI
+📝 Concise Prompter — average 86 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 64.88% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 67.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +86,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 04:56:30 UTC
+ Last Updated on 24/09/2026 05:06:46 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
