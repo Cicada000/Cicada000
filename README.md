@@ -28,49 +28,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 16 mins       ███████████████░░░░░░░░░░   60.12 % 
-Bash                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-JSON                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Python                   5 hrs 23 mins       ███████████████░░░░░░░░░░   58.01 % 
+Bash                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+JSON                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 51 mins       █████████████████░░░░░░░░   66.77 % 
-VS Code                  2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-Antigravity CLI          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Codex CLI                5 hrs 51 mins       ████████████████░░░░░░░░░   63.04 % 
+VS Code                  2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Antigravity CLI          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-ComfyUI                  2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Bonsai                   1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-ekta                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-meituan                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Unknown Project          2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+ComfyUI                  2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Bonsai                   1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+ekta                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+meituan                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 💻 Operating System: 
-Linux                    6 hrs 18 mins       ██████████████████░░░░░░░   71.89 % 
-Mac                      2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Linux                    6 hrs 49 mins       ██████████████████░░░░░░░   73.46 % 
+Mac                      2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 49 mins (77.9%)
+⏱ AI Coding Time: 7 hrs 20 mins (79.14%)
 
-✍️ 946 lines written by AI, 1,418 lines written by hand (40.02% AI-written)
+✍️ 1,042 lines written by AI, 1,418 lines written by hand (42.36% AI-written)
 
-🔤 6,986,632 Input Tokens, 192,129 Output Tokens
+🔤 7,040,489 Input Tokens, 237,663 Output Tokens
 
-💵 $23.88 Estimated AI Cost This Week
+💵 $24.33 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 68 AI Prompts
+🧠 17 AI Sessions, 76 AI Prompts
 
 GPT                      979 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.02% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 69.76% of changed lines were hand-edited
+⚖️ Balanced with AI — 42.36% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 67.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +87,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 05:09:12 UTC
+ Last Updated on 26/09/2026 05:12:25 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
