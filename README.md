@@ -28,49 +28,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 14 mins       █████████████████░░░░░░░░   66.57 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Image (png)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Text                     24 mins             ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Python                   24 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
+Image (png)              21 mins             ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 52 mins       ███████████████░░░░░░░░░░   60.85 % 
-VS Code                  2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.58 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  1 hr 10 mins        ███████████████████████░░   90.52 % 
+Codex CLI                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Codex Vscode             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🐱‍💻 Projects: 
-ComfyUI                  2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.25 % 
-Unknown Project          1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-meituan                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Game                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-wx-mp-mcp                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Unknown Project          41 mins             █████████████░░░░░░░░░░░░   53.37 % 
+Game                     28 mins             █████████░░░░░░░░░░░░░░░░   37.16 % 
+Models                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+桌面                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Linux                    5 hrs 10 mins       ████████████████████░░░░░   81.14 % 
-Mac                      1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (75.4%)
+⏱ AI Coding Time: 36 mins (46.63%)
 
-✍️ 237 lines written by AI, 1,414 lines written by hand (14.35% AI-written)
+✍️ 119 lines written by AI, 1,000 lines written by hand (10.63% AI-written)
 
-🔤 4,650,029 Input Tokens, 153,946 Output Tokens
+🔤 287,348 Input Tokens, 48,453 Output Tokens
 
-💵 $16.03 Estimated AI Cost This Week
+💵 $1.22 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 44 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
-GPT                      141 lines           █████████████████████████   100.00 % 
+GPT                      23 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.35% of written lines came from AI
-📝 Concise Prompter — average 62 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 90.31% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 10.63% of written lines came from AI
+📝 Concise Prompter — average 116 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 92.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +84,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 05:55:42 UTC
+ Last Updated on 30/09/2026 05:46:38 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
