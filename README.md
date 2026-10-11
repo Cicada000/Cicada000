@@ -28,40 +28,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      2 hrs 43 mins       █████████████████████████   98.89 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Other                    4 hrs 41 mins       ███████████████░░░░░░░░░░   61.51 % 
+TeX                      2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 9 mins        ████████████████████░░░░░   78.02 % 
-VS Code                  36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Codex Vscode             6 hrs 51 mins       ██████████████████████░░░   89.70 % 
+VS Code                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🐱‍💻 Projects: 
-简历                       1 hr 33 mins        ██████████████░░░░░░░░░░░   56.69 % 
-词元开物                     1 hr 11 mins        ███████████░░░░░░░░░░░░░░   43.31 % 
+Cicada000                2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
+Bonsai                   1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+简历                       1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+词元开物                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Mac                      2 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 52 mins       ████████████████░░░░░░░░░   63.88 % 
+Mac                      2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (78.14%)
+⏱ AI Coding Time: 7 hrs 2 mins (92.1%)
 
 ✍️ 11 lines written by AI, 1 lines written by hand (91.67% AI-written)
 
-🔤 1,767,887 Input Tokens, 74,112 Output Tokens
+🔤 8,535,542 Input Tokens, 306,350 Output Tokens
 
-💵 $5.17 Estimated AI Cost This Week
+💵 $27.38 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 15 AI Prompts
+🧠 6 AI Sessions, 30 AI Prompts
 
 GPT                      11 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 91.67% of written lines came from AI
-📝 Concise Prompter — average 189 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 122 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 15.38% of changed lines were hand-edited
 ```
 
@@ -78,7 +84,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 06:06:06 UTC
+ Last Updated on 11/10/2026 06:03:51 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
