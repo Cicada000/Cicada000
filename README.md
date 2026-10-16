@@ -10,7 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-243%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -29,47 +28,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 41 mins       ███████████████░░░░░░░░░░   61.51 % 
-TeX                      2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    6 hrs 24 mins       ███████████████████████░░   91.81 % 
+TeX                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 51 mins       ██████████████████████░░░   89.70 % 
-VS Code                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Codex Vscode             6 hrs 35 mins       ████████████████████████░   94.44 % 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🐱‍💻 Projects: 
-Cicada000                2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
-Bonsai                   1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-简历                       1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-词元开物                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Cicada000                2 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
+Tom-and-Jerry            1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Bonsai                   1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+词元开物                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 💻 Operating System: 
-Linux                    4 hrs 52 mins       ████████████████░░░░░░░░░   63.88 % 
-Mac                      2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.12 % 
+Linux                    6 hrs 43 mins       ████████████████████████░   96.21 % 
+Mac                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 2 mins (92.1%)
+⏱ AI Coding Time: 6 hrs 49 mins (97.75%)
 
-✍️ 11 lines written by AI, 1 lines written by hand (91.67% AI-written)
+✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
 
-🔤 8,535,542 Input Tokens, 306,350 Output Tokens
+🔤 8,001,975 Input Tokens, 320,635 Output Tokens
 
-💵 $27.38 Estimated AI Cost This Week
+💵 $26.29 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 30 AI Prompts
+🧠 5 AI Sessions, 30 AI Prompts
 
-GPT                      11 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.67% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 15.38% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 49 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 04:56:00 UTC
+ Last Updated on 16/10/2026 04:46:26 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
