@@ -28,45 +28,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 41 mins       ████████████████████████░   94.74 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TeX                      4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 41 mins       ████████████████████████░   94.74 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Cicada000                2 hrs 59 mins       ███████████████░░░░░░░░░░   60.35 % 
-Bonsai                   1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   34.39 % 
-Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-简历                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+简历                       4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 52 mins       █████████████████████████   98.38 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 55 mins (99.4%)
+⏱ AI Coding Time: 3 mins (63.09%)
 
 ✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
 
-🔤 7,471,860 Input Tokens, 267,819 Output Tokens
+🔤 704,205 Input Tokens, 35,581 Output Tokens
 
-💵 $24.05 Estimated AI Cost This Week
+💵 $1.84 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -83,7 +75,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 04:43:54 UTC
+ Last Updated on 18/10/2026 04:49:49 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
