@@ -10,16 +10,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-243%20hrs%2032%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.25 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+🌆 Daytime                273 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
+🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
@@ -29,54 +28,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-简历                       4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (63.09%)
-
-✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
-
-🔤 704,205 Input Tokens, 35,581 Output Tokens
-
-💵 $1.84 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 22/10/2026 05:06:13 UTC
+ Last Updated on 23/10/2026 05:05:52 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
