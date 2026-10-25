@@ -10,7 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-243%20hrs%2032%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -29,22 +28,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   51 mins             ███████████████████░░░░░░   77.29 % 
+Markdown                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Bill_caculate            1 hr 3 mins         ████████████████████████░   94.75 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Cicada000                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 6 mins (100.0%)
+
+✍️ 429 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 841,178 Input Tokens, 75,931 Output Tokens
+
+💵 $2.92 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+GPT                      433 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 60 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -60,7 +79,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 04:50:31 UTC
+ Last Updated on 25/10/2026 04:59:54 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
