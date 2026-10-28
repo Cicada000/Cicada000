@@ -28,48 +28,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 24 mins       █████████████████░░░░░░░░   68.92 % 
-Python                   51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Other                    2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 20 mins       ████████████████████████░   96.15 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Codex Vscode             2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Bill_caculate            1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.15 % 
-WashMachine-WebControl-ma56 mins             ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-Cicada000                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Alto AI                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-basecrack                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+WashMachine-WebControl-ma56 mins             ███████████░░░░░░░░░░░░░░   44.06 % 
+Cicada000                25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Alto AI                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+basecrack                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+wifi-mitm                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 💻 Operating System: 
-Linux                    2 hrs 24 mins       █████████████████░░░░░░░░   68.92 % 
-Mac                      1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   31.08 % 
+Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 29 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 9 mins (100.0%)
 
-✍️ 429 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,846,095 Input Tokens, 140,389 Output Tokens
+🔤 1,022,456 Input Tokens, 62,931 Output Tokens
 
-💵 $6.03 Estimated AI Cost This Week
+💵 $3.11 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 51 AI Prompts
+🧠 6 AI Sessions, 32 AI Prompts
 
-GPT                      433 lines           █████████████████████████   100.00 % 
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,170 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 158 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +79,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 05:19:40 UTC
+ Last Updated on 28/10/2026 05:58:50 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
