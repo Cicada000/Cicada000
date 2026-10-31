@@ -10,7 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -29,41 +28,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 9 mins        █████████████████████████   100.00 % 
+Other                    1 hr 1 min          █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 9 mins        █████████████████████████   100.00 % 
+Codex Vscode             1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WashMachine-WebControl-ma56 mins             ███████████░░░░░░░░░░░░░░   44.06 % 
-Cicada000                25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Alto AI                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-basecrack                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-wifi-mitm                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Cicada000                25 mins             ██████████░░░░░░░░░░░░░░░   41.73 % 
+Alto AI                  18 mins             ████████░░░░░░░░░░░░░░░░░   30.45 % 
+basecrack                15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+CTFTools                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 💻 Operating System: 
-Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (100.0%)
+⏱ AI Coding Time: 1 hr 1 min (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,022,456 Input Tokens, 62,931 Output Tokens
+🔤 743,639 Input Tokens, 34,666 Output Tokens
 
-💵 $3.11 Estimated AI Cost This Week
+💵 $1.98 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 32 AI Prompts
+🧠 4 AI Sessions, 10 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 325 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -80,7 +78,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 06:05:54 UTC
+ Last Updated on 31/10/2026 06:00:02 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
