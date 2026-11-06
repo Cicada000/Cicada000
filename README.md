@@ -10,16 +10,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2033%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-🌆 Daytime                273 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
-🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+🌆 Daytime                277 commits         ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.11 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 
@@ -29,57 +26,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Cicada000                25 mins             ██████████░░░░░░░░░░░░░░░   41.73 % 
-Alto AI                  18 mins             ████████░░░░░░░░░░░░░░░░░   30.45 % 
-basecrack                15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-CTFTools                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 743,639 Input Tokens, 34,666 Output Tokens
-
-💵 $1.98 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 10 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 325 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Swift                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 01/11/2026 06:29:25 UTC
+ Last Updated on 06/11/2026 08:42:44 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
