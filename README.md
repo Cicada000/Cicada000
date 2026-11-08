@@ -10,7 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-252%20hrs%2018%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -28,40 +28,52 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 39 mins        ████████████████████░░░░░   78.28 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Other                    13 hrs 44 mins      ████████████████████████░   94.12 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 28 mins       ███████████████░░░░░░░░░░   58.03 % 
+Codex Vscode             5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+OpenCode                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-Hakoniwa                 2 hrs 6 mins        █████████████████████████   100.00 % 
+pixel-plays              3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Hakoniwa                 3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Cicada000                2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+CTFTools                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Gradient_Echo_attachment 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 46 mins       █████████████░░░░░░░░░░░░   53.21 % 
+Mac                      6 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (100.0%)
+⏱ AI Coding Time: 14 hrs 36 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 66 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,935 Input Tokens, 853 Output Tokens
+🔤 7,493,021 Input Tokens, 505,781 Output Tokens
 
-💵 $0.70 Estimated AI Cost This Week
+💵 $26.70 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 19 AI Prompts
+🧠 25 AI Sessions, 108 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      66 lines            █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 38 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 633 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +89,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2026 06:16:58 UTC
+ Last Updated on 08/11/2026 06:23:13 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
