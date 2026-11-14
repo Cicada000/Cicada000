@@ -28,47 +28,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 21 mins       █████████████████████░░░░   83.54 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Other                    2 hrs 23 mins       ███████████████████████░░   93.81 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       ███████████████░░░░░░░░░░   61.94 % 
-Codex Vscode             1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   35.71 % 
-OpenCode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Codex Vscode             1 hr 17 mins        █████████████░░░░░░░░░░░░   51.10 % 
+VS Code                  1 hr 7 mins         ███████████░░░░░░░░░░░░░░   44.08 % 
+OpenCode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🐱‍💻 Projects: 
-Hakoniwa                 2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.47 % 
-Gradient_Echo_attachment 1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Cicada000                51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-bird                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-chao                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Gradient_Echo_attachment 1 hr 7 mins         ███████████░░░░░░░░░░░░░░   44.27 % 
+bird                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+chao                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Cicada000                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+boom                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 💻 Operating System: 
-Linux                    3 hrs 6 mins        ███████████████░░░░░░░░░░   59.53 % 
-Mac                      2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.47 % 
+Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 13 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 32 mins (100.0%)
 
 ✍️ 66 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 787,507 Input Tokens, 53,816 Output Tokens
+🔤 731,830 Input Tokens, 47,391 Output Tokens
 
-💵 $3.40 Estimated AI Cost This Week
+💵 $3.09 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 43 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
 GPT                      66 lines            █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,434 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 2,929 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -85,7 +82,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2026 07:00:05 UTC
+ Last Updated on 14/11/2026 06:48:12 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
