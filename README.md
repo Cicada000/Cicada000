@@ -10,7 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -29,45 +28,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 23 mins       ███████████████████████░░   93.81 % 
-Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 17 mins        █████████████░░░░░░░░░░░░   51.10 % 
-VS Code                  1 hr 7 mins         ███████████░░░░░░░░░░░░░░   44.08 % 
-OpenCode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Gradient_Echo_attachment 1 hr 7 mins         ███████████░░░░░░░░░░░░░░   44.27 % 
-bird                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-chao                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Cicada000                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-boom                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (100.0%)
-
-✍️ 66 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 731,830 Input Tokens, 47,391 Output Tokens
-
-💵 $3.09 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 18 AI Prompts
-
-GPT                      66 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,929 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +59,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 06:48:12 UTC
+ Last Updated on 15/11/2026 06:52:45 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
