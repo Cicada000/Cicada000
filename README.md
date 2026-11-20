@@ -15,10 +15,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-🌆 Daytime                277 commits         ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.11 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+🌆 Daytime                279 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
+🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.02 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 
@@ -28,22 +28,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     25 mins             ██████████████░░░░░░░░░░░   54.89 % 
+JavaScript               20 mins             ███████████░░░░░░░░░░░░░░   42.76 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████░░░░░░░░   69.01 % 
+Antigravity CLI          14 mins             ████████░░░░░░░░░░░░░░░░░   30.99 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Cicada-Welcome-Web       47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 47 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 2,856 Input Tokens, 137 Output Tokens
+
+💵 $0.01 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 17 AI Prompts
+
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -59,7 +78,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 07:42:00 UTC
+ Last Updated on 20/11/2026 07:32:50 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
