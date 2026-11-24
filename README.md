@@ -28,40 +28,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     25 mins             ██████████████░░░░░░░░░░░   54.89 % 
-JavaScript               20 mins             ███████████░░░░░░░░░░░░░░   42.76 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+HTML                     25 mins             ███████████░░░░░░░░░░░░░░   45.24 % 
+JavaScript               20 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████░░░░░░░░   69.01 % 
-Antigravity CLI          14 mins             ████████░░░░░░░░░░░░░░░░░   30.99 % 
+VS Code                  42 mins             ███████████████████░░░░░░   74.46 % 
+Antigravity CLI          14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
 
 🐱‍💻 Projects: 
-Cicada-Welcome-Web       47 mins             █████████████████████████   100.00 % 
+Cicada-Welcome-Web       47 mins             █████████████████████░░░░   82.41 % 
+Cicada000                10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (100.0%)
+⏱ AI Coding Time: 57 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,856 Input Tokens, 137 Output Tokens
+🔤 33,383 Input Tokens, 1,403 Output Tokens
 
-💵 $0.01 Estimated AI Cost This Week
+💵 $0.09 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 17 AI Prompts
+🧠 2 AI Sessions, 21 AI Prompts
 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 70 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
+📝 Concise Prompter — average 125 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -78,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 07:56:42 UTC
+ Last Updated on 24/11/2026 10:09:29 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
