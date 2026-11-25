@@ -10,16 +10,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2038%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-🌆 Daytime                279 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   40.02 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌆 Daytime                279 commits         ████████░░░░░░░░░░░░░░░░░   31.96 % 
+🌃 Evening                350 commits         ██████████░░░░░░░░░░░░░░░   40.09 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 ```
 
 
@@ -29,44 +28,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     25 mins             ███████████░░░░░░░░░░░░░░   45.24 % 
-JavaScript               20 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+HTML                     28 mins             ██████████████░░░░░░░░░░░   57.34 % 
+JavaScript               20 mins             ██████████░░░░░░░░░░░░░░░   40.44 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-VS Code                  42 mins             ███████████████████░░░░░░   74.46 % 
-Antigravity CLI          14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+VS Code                  35 mins             ██████████████████░░░░░░░   70.69 % 
+Antigravity CLI          14 mins             ███████░░░░░░░░░░░░░░░░░░   29.31 % 
 
 🐱‍💻 Projects: 
-Cicada-Welcome-Web       47 mins             █████████████████████░░░░   82.41 % 
-Cicada000                10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Cicada-Welcome-Web       49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (100.0%)
+⏱ AI Coding Time: 47 mins (94.57%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
 
-🔤 33,383 Input Tokens, 1,403 Output Tokens
+🔤 2,856 Input Tokens, 137 Output Tokens
 
-💵 $0.09 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 21 AI Prompts
+🧠 1 AI Sessions, 17 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 125 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +78,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 10:09:29 UTC
+ Last Updated on 25/11/2026 08:55:36 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
