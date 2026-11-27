@@ -10,7 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2038%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -29,41 +28,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     28 mins             ██████████████░░░░░░░░░░░   57.34 % 
-JavaScript               20 mins             ██████████░░░░░░░░░░░░░░░   40.44 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+HTML                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  35 mins             ██████████████████░░░░░░░   70.69 % 
-Antigravity CLI          14 mins             ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Cicada-Welcome-Web       49 mins             █████████████████████████   100.00 % 
+Cicada-Welcome-Web       2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (94.57%)
-
-✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
-
-🔤 2,856 Input Tokens, 137 Output Tokens
-
-💵 $0.01 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 17 AI Prompts
-
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 70 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +59,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 08:40:55 UTC
+ Last Updated on 27/11/2026 08:52:05 UTC
 <!--END_SECTION:waka-->
 
 ### More About Me
